@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paridhishah96
-- 🌱 I’m currently learning JS and React
+- 🌱 My current tech stack is JavaSript, React, SASS/SCSS and HTML
 - 👀 I’m interested in food, food-travel, cooking. Well basically everything food! I am also a professional googler!
 - 💞️ I’m looking to collaborate on new and fun projects! 
 
